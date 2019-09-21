@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://rulabaehe.abramczykg.pl/sitemap.xml
